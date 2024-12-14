@@ -1,1 +1,2 @@
-console.log('Hello this is my first GitHub repo, my namy is Lito');
+console.log('Hello this is my first GitHub repo!');
+alert('This is a sorting project!')
